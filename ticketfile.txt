@@ -1,0 +1,10 @@
+Name: matsushita, tetsuya 
+Ticket price: 65.0 
+Seat no: 306 
+Name: matsushita, tetsuya 
+Ticket price: 65.0 
+Seat no: 306 
+Name: sas, tet 
+Ticket price: 15.0 
+Seat no: 297 
+Age: 231
